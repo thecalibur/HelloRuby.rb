@@ -7,7 +7,7 @@ last_name.capitalize!
 print "Which city do you live?"
 city = gets.chomp
 city.capitalize!
-print "Which state do you live?0"
+print "Which state do you live?"
 state = gets.chomp
 state.upcase!
 puts "your name is #{first_name} #{last_name} and you live in #{city} #{state}"
